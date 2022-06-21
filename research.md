@@ -1,7 +1,7 @@
 ---
 title: "Research"
 ---
-My research interests mainly lie in string theory and its related problems. 
+My research interests mainly lie in string theory and its related problems. Here is my [publications](https://inspirehep.net/authors/1260061?ui-citation-summary=true). 
 
 
 
