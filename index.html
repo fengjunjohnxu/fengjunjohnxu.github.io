@@ -1,28 +1,10 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Hi there, I'm Fengjun Xu!</h1>
-				<p>I'm currently holding a postdoc postion in YMSC, Tsinghua University and BIMSA.  <a href="/about">Read more about my life...</a></p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:xufengjun321@gmail.com">email</a></li>
-        		<li><a href="https://github.com/fengjunjohnxu">github.com/fengjunjohnxu</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+---
+layout: default
+title: "Home"
+---
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
