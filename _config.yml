@@ -1,6 +1,6 @@
-title: "Fengjun Xu"
+title: "Fengjun Xu's Homepage"
 author: "Fengjun Xu"
-description: "YMSC/BIMSA"# "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "YMSC/BIMSA"  # "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home Change", icon: home}
+  - {file: "cv.pdf", title: "CV", icon: home}
   - {file: "README.md", title: "About me", icon: address-card}
+  - {file: "research.md", title: "research" }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xufengjun321@gmail.com"}
