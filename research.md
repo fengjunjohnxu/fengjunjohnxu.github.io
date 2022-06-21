@@ -15,5 +15,5 @@ Upon till now, I mainly work in these three directions:
 
 - Consistency conditions in quantum gravity 
  - Category symmetry in 2D CFTs
- - Tensionless string and Theormodynamics of String theory 
+ - Theormodynamics of string theory 
 
