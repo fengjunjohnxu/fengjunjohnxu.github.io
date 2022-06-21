@@ -1,15 +1,15 @@
 title: "Anomaly"
 author: "Fengjun Xu"
-description: "BIMSA"# "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Fengjun Xu"# "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: false           # adds a gray frame to the site
+show_social: true          # show site description and social links in the footer
+show_excerpts: false        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
