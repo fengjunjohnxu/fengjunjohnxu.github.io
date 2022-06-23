@@ -14,6 +14,5 @@ In my PhD's study, I focused on studying F-theory compactifications (Here is my 
 Upon till now, I mainly work in these three directions:
 
 - Consistency conditions in quantum gravity 
- - Category symmetry in 2D CFTs
- - Theormodynamics of string theory 
-
+- Theormodynamics of string theory 
+- Category symmetry and topological order phases
