@@ -5,7 +5,8 @@ layout: page
 ---
 
 ## Professional Experience
-- 2021- Present: Postdoc at YMSC, Tsinghua University
+- 2023-Present: Assitant Professor, BIMSA
+- 2021- 2023: Postdoc at YMSC, Tsinghua University/BIMSA
 - 2019- 2020: Visiting Scientist in ITP, Heidelberg University 
 - Nov. 8-30, 2019: Visiting Scientist, CERN, Geneva, Switzerland
 
